@@ -3,3 +3,4 @@
 - typescript
 - file upload/importer
 - api rest - express.js
+- typeorm
